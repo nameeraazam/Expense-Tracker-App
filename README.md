@@ -1,2 +1,2 @@
 # Expense-Tracker-App
-Code-Alpha Internship (web-Development) Task 1 completed  
+Code-Alpha task 1 completed 
